@@ -1,0 +1,36 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.card-img-top{
+    padding: 5px;
+    width: 100%;
+    height: 284px;
+    object-fit: cover;
+    border: 1px solid lightcyan;
+}
+
+p{
+    font-size: 12px;
+}
+
+.card{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: grid;
+    grid-template-columns: 30% 70%;
+    height: 284px;
+    width: 900px;
+}
+
+.card-title{
+    font-size: 22px;
+    line-height: 27px;
+}
+
+.card-text{
+    font-size: small;
+}

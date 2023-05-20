@@ -1,0 +1,8 @@
+.nav-item{
+    cursor: pointer;
+}
+
+.nav-item:hover{
+    font-size: 17px;
+    font-weight: bold;
+}
