@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/News360/static/css/main.d1a251b6.css",
+    "main.js": "/News360/static/js/main.ad9354e4.js",
+    "index.html": "/News360/index.html",
+    "main.d1a251b6.css.map": "/News360/static/css/main.d1a251b6.css.map",
+    "main.ad9354e4.js.map": "/News360/static/js/main.ad9354e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1a251b6.css",
+    "static/js/main.ad9354e4.js"
+  ]
+}
